@@ -1,1 +1,5 @@
-## code your solution here. 
+class Cat.new
+  attr_accessor :name
+end
+
+def meow
